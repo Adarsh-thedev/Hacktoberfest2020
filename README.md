@@ -1,2 +1,2 @@
 # Hacktoberfest2020
-Write a piece of code to print "Hello World!" in your favorite programming language
+Participate in hacktoberfest just by writing a piece of code to print "Hello World!" in your favorite programming language
