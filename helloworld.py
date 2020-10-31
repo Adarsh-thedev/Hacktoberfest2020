@@ -1,2 +1,1 @@
-print('hello world')
-print('accept my pr')
+print("hello welcome to hactoberfest 2020")
